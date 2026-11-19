@@ -1,0 +1,13 @@
+.DS_Store
+._*
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.zip
+*.log
+node_modules/
+.venv/
+.playwright-cli/
+private/

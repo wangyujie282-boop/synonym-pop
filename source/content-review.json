@@ -1,0 +1,1817 @@
+{
+  "version": "2026-11-12",
+  "scope": "逐条审阅 951 条听力、2805 条阅读源记录；保存原始顺序及索引。疑义项暂不出题，原始数据保留。",
+  "audioReview": {
+    "244": {
+      "file": "audio/0244.mp3",
+      "source": "0244_offer_deeper_sights.mp3",
+      "expected": "offer deeper sights",
+      "duration": 1.88475,
+      "peak": 0.5126454830169678,
+      "edgePeak": 0.0001201042759930715,
+      "leading": 0.3499375,
+      "trailing": 0.4423125,
+      "decode": "ok"
+    },
+    "273": {
+      "file": "audio/0273.mp3",
+      "source": "0273_donated.mp3",
+      "expected": "donated",
+      "duration": 1.1919375,
+      "peak": 0.5192925333976746,
+      "edgePeak": 0.00011039546370739117,
+      "leading": 0.3491875,
+      "trailing": 0.445125,
+      "decode": "ok"
+    },
+    "348": {
+      "file": "audio/0348.mp3",
+      "source": "0348_show.mp3",
+      "expected": "show",
+      "duration": 1.072125,
+      "peak": 0.39342501759529114,
+      "edgePeak": 0.0,
+      "leading": 0.3468125,
+      "trailing": 0.448625,
+      "decode": "ok"
+    },
+    "349": {
+      "file": "audio/0349.mp3",
+      "source": "0349_prove.mp3",
+      "expected": "prove",
+      "duration": 1.0804375,
+      "peak": 0.46992436051368713,
+      "edgePeak": 0.0,
+      "leading": 0.3455625,
+      "trailing": 0.4450625,
+      "decode": "ok"
+    },
+    "446": {
+      "file": "audio/0446.mp3",
+      "source": "0446_cost_a_fortune.mp3",
+      "expected": "cost a fortune",
+      "duration": 1.566,
+      "peak": 0.5354411602020264,
+      "edgePeak": 0.0003549607063177973,
+      "leading": 0.3499375,
+      "trailing": 0.4438125,
+      "decode": "ok"
+    },
+    "1187": {
+      "file": "audio/1187.mp3",
+      "source": "1187_be_sewn.mp3",
+      "expected": "be sewn",
+      "duration": 1.2401875,
+      "peak": 0.43656742572784424,
+      "edgePeak": 0.0,
+      "leading": 0.349375,
+      "trailing": 0.4484375,
+      "decode": "ok"
+    },
+    "1329": {
+      "file": "audio/1329.mp3",
+      "source": "1329_calming.mp3",
+      "expected": "calming",
+      "duration": 1.4660625,
+      "peak": 0.4433608055114746,
+      "edgePeak": 0.0,
+      "leading": 0.35,
+      "trailing": 0.4475625,
+      "decode": "ok"
+    },
+    "1487": {
+      "file": "audio/1487.mp3",
+      "source": "1487_deaf.mp3",
+      "expected": "deaf",
+      "duration": 1.168625,
+      "peak": 0.4314973056316376,
+      "edgePeak": 0.00010374298290116712,
+      "leading": 0.347625,
+      "trailing": 0.4430625,
+      "decode": "ok"
+    },
+    "1588": {
+      "file": "audio/1588.mp3",
+      "source": "1588_increased_threat.mp3",
+      "expected": "increased threat",
+      "duration": 2.10125,
+      "peak": 0.6912040710449219,
+      "edgePeak": 0.00012388755567371845,
+      "leading": 0.3499375,
+      "trailing": 0.439375,
+      "decode": "ok"
+    },
+    "1595": {
+      "file": "audio/1595.mp3",
+      "source": "1595_per_person.mp3",
+      "expected": "per person",
+      "duration": 1.80225,
+      "peak": 0.4273790717124939,
+      "edgePeak": 0.0,
+      "leading": 0.330875,
+      "trailing": 0.4423125,
+      "decode": "ok"
+    }
+  },
+  "findings": [
+    {
+      "mode": "L",
+      "row": 6,
+      "reason": "be used 与 be used again and again 缺少重复使用限定。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 25,
+      "reason": "太空旅行与国际空间站是相关概念，非词组同义。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 50,
+      "reason": "努力和成绩不能直接等同展示能力。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 52,
+      "reason": "准时与错过截止日期意义相反，缺少否定语境。",
+      "status": "hold",
+      "severity": "P0"
+    },
+    {
+      "mode": "L",
+      "row": 119,
+      "reason": "offer deeper sights 疑为 insights，需回原文确认并核对录音。 录音复核仍有读音疑点（244），需人工试听或重录；ASR 结果不能单独认定读错。",
+      "status": "hold",
+      "audioReview": [
+        244
+      ],
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 132,
+      "status": "hold",
+      "reason": "录音复核仍有读音疑点（273），需人工试听或重录；ASR 结果不能单独认定读错。",
+      "audioReview": [
+        273
+      ],
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 137,
+      "reason": "had tour internationally 语法错误，疑漏过去分词；对应录音需复核。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 149,
+      "reason": "use 与 cultivate 仅在耕地语境可能对应。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 156,
+      "reason": "畅销与时效性不同，not best-seller 不能等于 old。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 169,
+      "status": "hold",
+      "reason": "录音复核仍有读音疑点（348, 349），需人工试听或重录；ASR 结果不能单独认定读错。",
+      "audioReview": [
+        348,
+        349
+      ],
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 183,
+      "reason": "stick to mark ways 不自然，疑应 marked paths，需原文和录音。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 197,
+      "reason": "a lot of details 此处结构不自然，需 in detail 或 in a lot of detail。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 208,
+      "reason": "link to 与 add to 不可直接作为词组同义。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 210,
+      "reason": "sense 与 concept 属多义语境对应，应补上下文。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 217,
+      "status": "hold",
+      "reason": "录音复核仍有读音疑点（446），需人工试听或重录；ASR 结果不能单独认定读错。",
+      "audioReview": [
+        446
+      ],
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 237,
+      "reason": "did not realized 应使用原形 realize；原录音转写为 realize。",
+      "status": "fixed",
+      "correction": {
+        "t": "did not realize before"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "L",
+      "row": 242,
+      "reason": "new 与 replace 词性与语义不同，缺少上下文。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 247,
+      "reason": "required 与 demanding 不可孤立等同，需完整原句。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 258,
+      "reason": "not as old as 与 much less recent 的时间方向相反。",
+      "status": "hold",
+      "severity": "P0"
+    },
+    {
+      "mode": "L",
+      "row": 291,
+      "reason": "no placed left 是拼写/语法错误；录音为 no place left。",
+      "status": "fixed",
+      "correction": {
+        "t": "no place left"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "L",
+      "row": 297,
+      "reason": "realize 与 cautious 不是同义词，疑 conscious 误写。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 299,
+      "reason": "target at 搭配不自然，应 be targeted at/target。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 305,
+      "reason": "containers 是容器，cargoes 是货物。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 329,
+      "reason": "inspire 与 shock 不可孤立等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 345,
+      "reason": "速度单位缺少 per hour；kilometers 仅为距离。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 349,
+      "reason": "prominent 与 at the beginning 仅可能在特定排列语境对应。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 418,
+      "reason": "reduce emissions on air pollution 搭配有误，需核对原句。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 433,
+      "reason": "either side 此处为两侧/每一侧，中文任意一边不准确。",
+      "status": "fixed",
+      "correction": {
+        "zh": "每一侧；两侧各自"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "L",
+      "row": 449,
+      "reason": "mental 与 emotional 语义范围不同，需语境。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 556,
+      "reason": "no work on a Sunday 与 get one Sunday off 在频率上不等同，后一项为每月一次。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 574,
+      "reason": "deaths 是死亡人数/死亡事件，mortality rate 是死亡率，不应无语境直接等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 578,
+      "status": "hold",
+      "reason": "录音复核仍有读音疑点（1187），需人工试听或重录；ASR 结果不能单独认定读错。",
+      "audioReview": [
+        1187
+      ],
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 580,
+      "reason": "profession who needed... 语法主语错误，应是从业者，不是职业。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 608,
+      "reason": "disposable income 是可支配收入，earning power 是赚钱能力。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 647,
+      "status": "hold",
+      "reason": "录音复核仍有读音疑点（1329），需人工试听或重录；ASR 结果不能单独认定读错。",
+      "audioReview": [
+        1329
+      ],
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 653,
+      "status": "hold",
+      "reason": "录音复核仍有读音疑点（348），需人工试听或重录；ASR 结果不能单独认定读错。",
+      "audioReview": [
+        348
+      ],
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 692,
+      "reason": "soil become less productive 应为 soil becomes...，需核对原录音。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 721,
+      "status": "hold",
+      "reason": "录音复核仍有读音疑点（1487），需人工试听或重录；ASR 结果不能单独认定读错。",
+      "audioReview": [
+        1487
+      ],
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 761,
+      "reason": "resistance 与 resilience 的抵抗/恢复差异需语境。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 768,
+      "status": "hold",
+      "reason": "录音复核仍有读音疑点（1588），需人工试听或重录；ASR 结果不能单独认定读错。",
+      "audioReview": [
+        1588
+      ],
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 772,
+      "status": "hold",
+      "reason": "录音复核仍有读音疑点（1595），需人工试听或重录；ASR 结果不能单独认定读错。",
+      "audioReview": [
+        1595
+      ],
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 787,
+      "reason": "cure 与 diagnosis 含义不同，诊断不等于治愈。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 806,
+      "reason": "被移出大纲不必然等于与课程无关。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 835,
+      "reason": "up to 75% 表示上限，75% discount 表示确定折扣。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 848,
+      "reason": "regretful 与 miss 单独拆成同义词存在歧义。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "L",
+      "row": 908,
+      "reason": "中文混入页码 44。",
+      "status": "fixed",
+      "correction": {
+        "zh": "价格过高"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "L",
+      "row": 913,
+      "reason": "no enough information 语法错误，应该 not enough information。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 9,
+      "reason": "despite 与 survived 依赖让步语境；不可孤立作同义。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 16,
+      "reason": "affecting 与 due to 词组因果方向需完整原句。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 38,
+      "reason": "contributions 与 recommendation 需要语境限定。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 42,
+      "reason": "often 与 invariably 频率强弱不同，后者为始终。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 47,
+      "reason": "few 与 no 的数量不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 52,
+      "reason": "approval 与 speech 不可无上下文对应。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 125,
+      "reason": "easy 与 possible 不是同义。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 152,
+      "reason": "turn 与 reveal 多义词对应需原文。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 164,
+      "reason": "since 与 for 的时间结构不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 170,
+      "reason": "beyond of the point 多余 of。",
+      "status": "fixed",
+      "correction": {
+        "q": "beyond the point where land was visible"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 171,
+      "reason": "belief 与 knowledge 不可无条件等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 174,
+      "reason": "clear 与 proof 不是词组同义。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 191,
+      "reason": "over the last ten years 与 for at least a decade 的时段限制不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 244,
+      "reason": "caused by 与 leading to 的因果方向不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 247,
+      "reason": "produce 与 return 要核对语境。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 263,
+      "reason": "season 与 year-round production 不可独立同义。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 280,
+      "reason": "upright 与 level 方向含义不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 287,
+      "reason": "definition 与 term 非同义。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 298,
+      "reason": "non-fossil-based 与 renewable 范围不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 300,
+      "reason": "account of what happened to the ship vary 缺少 accounts 复数。",
+      "status": "fixed",
+      "correction": {
+        "t": "accounts of what happened to the ship vary"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 378,
+      "reason": "缺乏数学知识与省略数学内容不是同义，需要题目和原句关系。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 403,
+      "reason": "new-born 是新生儿，fetus 是胎儿，生命阶段不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 411,
+      "reason": "be surprised 与 noticeable 非同义。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 430,
+      "reason": "majored impact 应为 major impact。",
+      "status": "fixed",
+      "correction": {
+        "q": "has had a major impact on"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 464,
+      "reason": "unusual 与 interesting 不可无语境等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 465,
+      "reason": "inspire 与 engrossing 不可直接等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 484,
+      "reason": "difficulities 拼写错误。",
+      "status": "fixed",
+      "correction": {
+        "q": "difficulties"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 494,
+      "reason": "cnsequences 拼写错误。",
+      "status": "fixed",
+      "correction": {
+        "t": "consequences"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 503,
+      "reason": "journey 与 journal entries 非同义，需要上下文。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 510,
+      "reason": "find evidence 与 made desperate attempts 存在结果/尝试区别。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 518,
+      "reason": "mechanism 与 phenomenon 非同义。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 530,
+      "reason": "non-verbal auditory input 与 speech sounds 相矛盾。",
+      "status": "hold",
+      "severity": "P0"
+    },
+    {
+      "mode": "R",
+      "row": 532,
+      "reason": "identify 与 guess 不可无条件等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 535,
+      "reason": "disadvantage 与 exploitation 语境依赖。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 541,
+      "reason": "carrying out 与 was made possible 不可独立等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 542,
+      "reason": "prepared 与 unprecedented 含义不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 544,
+      "reason": "old 与 fully grown 阶段/年龄含义不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 583,
+      "reason": "produced 与 obtain 要核对语境。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 584,
+      "reason": "an impressive exact... 应为 impressively exact...。",
+      "status": "fixed",
+      "correction": {
+        "t": "an impressively exact and detailed portrait"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 585,
+      "reason": "interesting 与 significant 非直接同义。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 588,
+      "reason": "神经活动与细胞簇不是同义概念。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 593,
+      "reason": "decreases 与 quickly adapt to 非同义。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 611,
+      "reason": "expensive 与 costs 非同义。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 612,
+      "reason": "produce/manufacture 与 melt 非同义。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 647,
+      "reason": "informed 与 involved 非同义。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 667,
+      "reason": "is related to 与 account for 关系不同，需语境。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 673,
+      "reason": "creating 与 identified 非同义。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 676,
+      "reason": "result from 与 lead to 因果方向相反。",
+      "status": "hold",
+      "severity": "P0"
+    },
+    {
+      "mode": "R",
+      "row": 678,
+      "reason": "arise from 与 can lead to 因果方向相反。",
+      "status": "hold",
+      "severity": "P0"
+    },
+    {
+      "mode": "R",
+      "row": 686,
+      "reason": "bordom 拼写错误。",
+      "status": "fixed",
+      "correction": {
+        "t": "might even be a new source of boredom"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 697,
+      "reason": "errie 拼写错误，应为 eerie。",
+      "status": "fixed",
+      "correction": {
+        "t": "an eerie, ghostlike quality"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 737,
+      "reason": "negative emotions 的候选同时包含 pleasure，需保留相应证据。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 746,
+      "reason": "modify 与 abandoned 范围不同，需完整语境。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 765,
+      "reason": "you offering 应为 your offering。",
+      "status": "fixed",
+      "correction": {
+        "q": "an increasing lack of connection with your offering"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 795,
+      "reason": "workd 拼写错误。",
+      "status": "fixed",
+      "correction": {
+        "t": "worked harder at the motor activations"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 832,
+      "reason": "variety 与单纯的数量 100 million 不同，需确认完整证据。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 856,
+      "reason": "security 与 unforgettable 无同义关系。",
+      "status": "hold",
+      "severity": "P0"
+    },
+    {
+      "mode": "R",
+      "row": 881,
+      "reason": "medical problems 的候选包含 well-being（健康），与问题含义相反。",
+      "status": "hold",
+      "severity": "P0"
+    },
+    {
+      "mode": "R",
+      "row": 912,
+      "reason": "improvement 与 fulfilling 需要原文语境。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 951,
+      "reason": "forefarthers 拼写错误，应 forefathers；与 early recommendations 也不等同。",
+      "status": "hold",
+      "correction": {
+        "t": "forefathers"
+      },
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 977,
+      "reason": "no section of society 与无须机构并非词组同义。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1013,
+      "reason": "scale 与 criteria 区分量表与标准，需语境。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1026,
+      "reason": "locate 与 followed 非直接同义。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1040,
+      "reason": "populaitons 拼写错误。",
+      "status": "fixed",
+      "correction": {
+        "t": "wild populations"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 1051,
+      "reason": "oversea 应为 overseas。",
+      "status": "fixed",
+      "correction": {
+        "q": "overseas locations"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 1059,
+      "reason": "have already proved 与 had yet tested 完成状态相反。",
+      "status": "hold",
+      "severity": "P0"
+    },
+    {
+      "mode": "R",
+      "row": 1078,
+      "reason": "being cultivated 与 fertile seed 非独立同义。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1102,
+      "reason": "adapt to 与 works reliably 非同义。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1109,
+      "reason": "maybe familiar 应为 may be familiar。",
+      "status": "fixed",
+      "correction": {
+        "q": "places that may be familiar"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 1129,
+      "reason": "out physical 应为 our physical。",
+      "status": "fixed",
+      "correction": {
+        "t": "affect our physical and mental health, our social lives, our access to work and culture, and the air we breathe"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 1179,
+      "reason": "start to buy 与 became available to 买卖角色不同，需原文。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1214,
+      "reason": "access 与 sucking up 需根系吸水语境支持。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1223,
+      "reason": "有可观利润与足以维生不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1224,
+      "reason": "wildlife 所列举项含 pollen。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1259,
+      "reason": "conscious 拼写错误。",
+      "status": "fixed",
+      "correction": {
+        "q": "conscious"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 1261,
+      "reason": "hit out at ice and snow 转录错误。",
+      "status": "fixed",
+      "correction": {
+        "t": "hit out at ice and snow"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 1275,
+      "reason": "Egypt 拼写错误。",
+      "status": "fixed",
+      "correction": {
+        "t": "in ancient Egypt"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 1294,
+      "reason": "建议与指令的强制程度不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1313,
+      "reason": "薪酬足够与工作稳定不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1324,
+      "reason": "near 与 below 表达的位置不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1325,
+      "reason": "Neolithic 拼写错误。",
+      "status": "fixed",
+      "correction": {
+        "t": "a Neolithic track",
+        "zh": "一条古代道路；一条新石器时代的小径"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 1330,
+      "reason": "exist 拼写错误。",
+      "status": "fixed",
+      "correction": {
+        "q": "continue to exist for longer than the human race"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 1351,
+      "reason": "fails to 与 destroys 缺少完整谓语语境。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1366,
+      "reason": "考虑与妥协或整合不直接等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1371,
+      "reason": "alternations 疑为 alterations。",
+      "status": "fixed",
+      "correction": {
+        "q": "the likelihood of alterations"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 1410,
+      "reason": "attacked 拼写错误，biting 需虫咬语境。",
+      "status": "hold",
+      "correction": {
+        "q": "being attacked"
+      },
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1444,
+      "reason": "隧道部分与施工队伍不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1454,
+      "reason": "requirements 拼写错误。",
+      "status": "fixed",
+      "correction": {
+        "t": "environment's requirements"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 1467,
+      "reason": "technology 拼写错误。",
+      "status": "hold",
+      "correction": {
+        "t": "possess both the science and the technology"
+      },
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1518,
+      "reason": "despot 应为 depot。",
+      "status": "hold",
+      "correction": {
+        "t": "depot"
+      },
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1533,
+      "reason": "胜利与被彻底击败的施事对象相反。",
+      "status": "hold",
+      "severity": "P0"
+    },
+    {
+      "mode": "R",
+      "row": 1609,
+      "reason": "可获得食物与猎物消失相反。",
+      "status": "hold",
+      "severity": "P0"
+    },
+    {
+      "mode": "R",
+      "row": 1618,
+      "reason": "法律与动议不是同一法律状态。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1687,
+      "reason": "稳定收入与相同财富不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1709,
+      "reason": "countries 应为 centuries。",
+      "status": "fixed",
+      "correction": {
+        "t": "displays of the feat go back centuries"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 1734,
+      "reason": "grow 与 burst 需完整短语支持。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1744,
+      "reason": "收入与我所支付的价格不同视角。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1754,
+      "reason": "focus 拼写错误。",
+      "status": "fixed",
+      "correction": {
+        "q": "focus only on"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 1760,
+      "reason": "攻击树木与到访森林不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1831,
+      "reason": "practitioners 拼写错误。",
+      "status": "fixed",
+      "correction": {
+        "q": "medical practitioners"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 1841,
+      "reason": "专业能力与原创融合不是直接同义。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1862,
+      "reason": "进入与吸收的主宾语方向不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1870,
+      "reason": "噪音与更安静不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1877,
+      "reason": "花费与划算不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1883,
+      "reason": "更好选项与新技术只在原题上下文关联。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1901,
+      "reason": "太昂贵与从未在财务上成功不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 1905,
+      "reason": "technology 拼写错误。",
+      "status": "fixed",
+      "correction": {
+        "q": "technology"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 1918,
+      "reason": "原文为 the student is capable of。",
+      "status": "fixed",
+      "correction": {
+        "t": "limits what the teacher feels the student is capable of"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 1933,
+      "reason": "wide-ranging 拼写错误。",
+      "status": "fixed",
+      "correction": {
+        "t": "wide-ranging benefits"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 1941,
+      "reason": "cope 拼写错误。",
+      "status": "fixed",
+      "correction": {
+        "q": "people cope with mental health issues"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 1954,
+      "reason": "misunderstood 拼写错误。",
+      "status": "fixed",
+      "correction": {
+        "t": "misunderstood"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 1963,
+      "reason": "waste 拼写错误。",
+      "status": "fixed",
+      "correction": {
+        "t": "a waste of time, give students a deluded notion"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 1964,
+      "reason": "表达末尾多余 w。",
+      "status": "fixed",
+      "correction": {
+        "q": "were widely disputed"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 1989,
+      "reason": "contributed to 与 was attributed to 因果方向不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2003,
+      "reason": "campaign 与 process 不是通用同义词。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2033,
+      "reason": "at some point 与 over time 时间含义不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2045,
+      "reason": "额外证据与实证证据不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2049,
+      "reason": "事实与观察不必然等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2050,
+      "reason": "different part 应为 different parts。",
+      "status": "fixed",
+      "correction": {
+        "t": "different parts"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 2057,
+      "reason": "供给增加与需求增长不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2058,
+      "reason": "原文为 was needed to。",
+      "status": "fixed",
+      "correction": {
+        "t": "was needed to"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 2062,
+      "reason": "and 与 or 不可直接互换。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2083,
+      "reason": "sportsperson 拼写缺失。",
+      "status": "fixed",
+      "correction": {
+        "q": "a sportsperson"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 2095,
+      "reason": "因果关系与相关关系不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2125,
+      "reason": "many 与 most 数量范围不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2160,
+      "reason": "to make way for 与 revenues 不对应。",
+      "status": "hold",
+      "severity": "P0"
+    },
+    {
+      "mode": "R",
+      "row": 2162,
+      "reason": "problem 与 process 不直接等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2167,
+      "reason": "官方政策与政府主体不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2177,
+      "reason": "不令人惊讶与存在已久需原题语境。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2178,
+      "reason": "不情愿可以理解与不完全意外不直接等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2195,
+      "reason": "气候变化与更冷的气温不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2204,
+      "reason": "more 与 most 比较程度不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2235,
+      "reason": "调整与采用不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2249,
+      "reason": "公平分配与不积累私产不直接等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2254,
+      "reason": "一人的成功与杀死动物仅为特定例证。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2265,
+      "reason": "联系与结果不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2273,
+      "reason": "because 与 led to 因果方向不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2288,
+      "reason": "Others 缺少首字母。",
+      "status": "fixed",
+      "correction": {
+        "t": "others are more wary"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 2289,
+      "reason": "引入方式与被导致的原因不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2299,
+      "reason": "意识到与小心不直接等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2306,
+      "reason": "更受欢迎与仅次于橡树的排序不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2328,
+      "reason": "容易受影响与意识到不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2392,
+      "reason": "并不少见与推动力不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2406,
+      "reason": "没有变质与损伤减少不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2436,
+      "reason": "风险与没有发生过挑战需完整上下文。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2489,
+      "reason": "关键信息是房屋能力，表达片段不完整。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2490,
+      "reason": "海平面上升与高出海平面不足一米不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2526,
+      "reason": "extensive 的词性标注错误。",
+      "status": "fixed",
+      "correction": {
+        "t": "extensive"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 2537,
+      "reason": "意见与评论者不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2543,
+      "reason": "影响与由谁创作不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2557,
+      "reason": "and 与 or 不可直接互换。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2583,
+      "reason": "depended on 与 were vital to 因果角色方向不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2590,
+      "reason": "政府与政治不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2613,
+      "reason": "share 与 experience 缺少宾语语境。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2649,
+      "reason": "高估能力与不理解不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2653,
+      "reason": "必要与合适不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2665,
+      "reason": "must thinking 语法有误，原文含 start。",
+      "status": "fixed",
+      "correction": {
+        "t": "must start thinking about, have a discussion, the distrust that many people have"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 2674,
+      "reason": "causing 与 as a result of 因果方向不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2698,
+      "reason": "有时不启用与经常拒绝启用频率不同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2706,
+      "reason": "经常累积与数量可观不直接等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2711,
+      "reason": "创造与可以做不同选择不直接等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2733,
+      "reason": "biogas 是 biofuel 的一种，非可自由互换同义词。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2736,
+      "reason": "完成与经历过程不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2737,
+      "reason": "giving off 缺少 f。",
+      "status": "fixed",
+      "correction": {
+        "t": "giving off"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 2751,
+      "reason": "高人口密度与人口总数不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2764,
+      "reason": "do not experience 缺少 t。",
+      "status": "fixed",
+      "correction": {
+        "q": "do not experience"
+      },
+      "severity": "P2"
+    },
+    {
+      "mode": "R",
+      "row": 2769,
+      "reason": "相关性与因果关系不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2776,
+      "reason": "撤除太迟与不建议撤除不等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2779,
+      "reason": "unexpectedly 与 initially simple 不直接等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2783,
+      "reason": "直截了当与快速不必然等同。",
+      "status": "hold",
+      "severity": "P1"
+    },
+    {
+      "mode": "R",
+      "row": 2784,
+      "reason": "不可能与不只是某事不等同。",
+      "status": "hold",
+      "severity": "P1"
+    }
+  ]
+}

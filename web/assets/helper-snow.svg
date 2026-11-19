@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 212" role="img" aria-label="拿着雪球的小机器人">
+  <defs><linearGradient id="body" x2=".6" y2="1"><stop stop-color="#8ae5fa"/><stop offset="1" stop-color="#36a5d5"/></linearGradient><radialGradient id="snow" cx=".35" cy=".25"><stop stop-color="#fff"/><stop offset=".7" stop-color="#f8ffff"/><stop offset="1" stop-color="#bde7f5"/></radialGradient></defs>
+  <ellipse cx="112" cy="200" rx="77" ry="10" fill="#325f89" opacity=".12"/>
+  <path d="M65 139q-25 2-31 24m128-29q17 1 28-12" fill="none" stroke="#2995bc" stroke-width="17" stroke-linecap="round"/>
+  <path d="M83 178v16m47-16v16" stroke="#257aab" stroke-width="20" stroke-linecap="round"/>
+  <rect x="57" y="119" width="101" height="66" rx="28" fill="url(#body)"/>
+  <path d="M105 34V21" stroke="#466780" stroke-width="6"/><circle cx="105" cy="17" r="10" fill="#ffd461"/>
+  <rect x="37" y="36" width="138" height="104" rx="48" fill="url(#body)"/>
+  <rect x="51" y="50" width="110" height="73" rx="32" fill="#fcfcf1"/>
+  <rect x="78" y="74" width="9" height="17" rx="4.5" fill="#30536f"/><rect x="128" y="74" width="9" height="17" rx="4.5" fill="#30536f"/>
+  <path d="M98 101q11 11 22-1" fill="none" stroke="#30536f" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="69" cy="98" rx="9" ry="5" fill="#ffb7a7"/><ellipse cx="146" cy="98" rx="9" ry="5" fill="#ffb7a7"/>
+  <path d="M69 137q37 13 77 0v16q-40 13-77 0z" fill="#ffd064"/><path d="m135 150 12 23 14-6-13-22" fill="#ffc34e"/>
+  <circle cx="108" cy="173" r="7" fill="#fff6c4"/>
+  <circle cx="196" cy="102" r="26" fill="url(#snow)"/><path d="m183 94 6-5m16 18 5-4m-18 12 3 2" stroke="#d6f0fa" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="188" cy="128" rx="14" ry="9" fill="#ffce57" transform="rotate(-15 188 128)"/>
+</svg>

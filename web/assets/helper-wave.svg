@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="小机器人">
+  <defs><linearGradient id="body" x2=".6" y2="1"><stop stop-color="#8ae5fa"/><stop offset="1" stop-color="#36a5d5"/></linearGradient></defs>
+  <ellipse cx="119" cy="220" rx="69" ry="9" fill="#325f89" opacity=".12"/>
+  <path d="M60 155Q34 155 28 129M182 150Q211 136 214 101" fill="none" stroke="#2995bc" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="214" cy="93" r="14" fill="#ffce57"/><path d="M213 81v-9m-10 12-6-6m25 7 7-7" stroke="#ffce57" stroke-width="7" stroke-linecap="round"/>
+  <path d="M94 195v18m49-18v18" stroke="#257aab" stroke-width="21" stroke-linecap="round"/>
+  <rect x="64" y="131" width="110" height="73" rx="31" fill="url(#body)"/>
+  <path d="M120 43V29" stroke="#466780" stroke-width="6"/><circle cx="120" cy="24" r="11" fill="#ffd461"/>
+  <rect x="45" y="46" width="150" height="112" rx="53" fill="url(#body)"/>
+  <rect x="60" y="61" width="120" height="79" rx="35" fill="#fcfcf1"/>
+  <path d="M82 96q10-16 20 0m36 0q10-16 20 0" fill="none" stroke="#30536f" stroke-width="6" stroke-linecap="round"/>
+  <path d="M108 113q12 13 24 0" fill="none" stroke="#30536f" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="79" cy="111" rx="10" ry="5" fill="#ffb7a7"/><ellipse cx="161" cy="111" rx="10" ry="5" fill="#ffb7a7"/>
+  <path d="M78 153q40 14 82 0v17q-42 14-82 0z" fill="#ffd064"/>
+  <circle cx="119" cy="187" r="8" fill="#fff6c4"/>
+</svg>

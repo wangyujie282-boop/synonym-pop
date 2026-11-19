@@ -1,0 +1,44 @@
+[
+  {
+    "file": "baloo-2-600.ttf",
+    "source": "https://fonts.gstatic.com/s/baloo2/v23/wXK0E3kTposypRydzVT08TS3JnAmtdjEyqpv.ttf",
+    "bytes": 418088,
+    "sha256": "393259b936ba314be8a928c37a7bbfde9fc09b442b6b6de5e610f093daf5ad53"
+  },
+  {
+    "file": "baloo-2-800.ttf",
+    "source": "https://fonts.gstatic.com/s/baloo2/v23/wXK0E3kTposypRydzVT08TS3JnAmtdiayqpv.ttf",
+    "bytes": 417564,
+    "sha256": "db932b3668b6188413fcde58993f7667371033579f131d524cfed3f83c62d7e2"
+  },
+  {
+    "file": "nunito-500.ttf",
+    "source": "https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhRTM.ttf",
+    "bytes": 125652,
+    "sha256": "ceb6eec0a584cae83e8f3ab868e2f03977b38ff6e78632bc8a7ec69dcf9f7c18"
+  },
+  {
+    "file": "nunito-700.ttf",
+    "source": "https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmRTM.ttf",
+    "bytes": 125464,
+    "sha256": "1a025dfce6e6e03bbe31ba82277ec5ed96df8b8dd58b3df6267269490b90b1dc"
+  },
+  {
+    "file": "nunito-800.ttf",
+    "source": "https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmRTM.ttf",
+    "bytes": 125416,
+    "sha256": "c5776505c7b3df3c3ca763477b795d6bbc6517760bede0462ab77d1fb44954a6"
+  },
+  {
+    "file": "baloo2-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/baloo2/OFL.txt",
+    "bytes": 4384,
+    "sha256": "ad09b05dc8bc678c9daf7c4c5f7ef1f55e5726127f4330b2e98e40b9dffcb860"
+  },
+  {
+    "file": "nunito-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/nunito/OFL.txt",
+    "bytes": 4385,
+    "sha256": "580df76c95a1ec5ab878ceb25bb3d85c6a076804e9c970c8c6972aea775fdf65"
+  }
+]
